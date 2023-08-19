@@ -1,0 +1,32 @@
+.img {
+  /* width: 200px; */
+}
+
+.details {
+  width: 200px;
+}
+
+.movieposter img {
+  width: 250px;
+}
+
+.movieDescription {
+  padding: 10px;
+}
+
+.movie-details-container {
+  display: flex;
+  margin: 20px;
+}
+
+.img-container {
+  width: 200px;
+}
+
+img {
+  width: 200px;
+}
+
+.description-container {
+  padding: 10px;
+}
